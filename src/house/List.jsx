@@ -17,7 +17,7 @@ const List = ({ list, onRemoveItem }) =>
         <table className="table table-hover">
           <thead>
             <tr>
-              <th>Title</th>
+              <th>Article</th>
               <th>Author</th>
               <th>Total Comments</th>
               <th>Points</th>
